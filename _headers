@@ -39,15 +39,6 @@
   Link: </component---src-templates-blog-post-js-98355aa439b9dbd31a61.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/example-title/page-data.json>; rel=preload; as=fetch; crossorigin
-/blog/second-title
-  Link: </webpack-runtime-532f9d6eb141e7cf1218.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </framework-e2d419ac45d8ae41957a.js>; rel=preload; as=script
-  Link: </app-58a6ab4fb94cb4d6828f.js>; rel=preload; as=script
-  Link: </commons-abc287a5fdcf28899784.js>; rel=preload; as=script
-  Link: </component---src-templates-blog-post-js-98355aa439b9dbd31a61.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/blog/second-title/page-data.json>; rel=preload; as=fetch; crossorigin
 /blog/code-example
   Link: </webpack-runtime-532f9d6eb141e7cf1218.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -57,6 +48,15 @@
   Link: </component---src-templates-blog-post-js-98355aa439b9dbd31a61.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/blog/code-example/page-data.json>; rel=preload; as=fetch; crossorigin
+/blog/second-title
+  Link: </webpack-runtime-532f9d6eb141e7cf1218.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-e2d419ac45d8ae41957a.js>; rel=preload; as=script
+  Link: </app-58a6ab4fb94cb4d6828f.js>; rel=preload; as=script
+  Link: </commons-abc287a5fdcf28899784.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-98355aa439b9dbd31a61.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/blog/second-title/page-data.json>; rel=preload; as=fetch; crossorigin
 /404/
   Link: </webpack-runtime-532f9d6eb141e7cf1218.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
