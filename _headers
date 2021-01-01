@@ -50,6 +50,15 @@
   Link: </techhighlands/component---src-templates-blog-post-js-a2d8e7946009e484879c.js>; rel=preload; as=script
   Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </techhighlands/page-data/blog/second-title/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/article/gomoku-1
+  Link: </techhighlands/webpack-runtime-b491b7afb0f02cf253a1.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-de237a875aa45b276a9d.js>; rel=preload; as=script
+  Link: </techhighlands/app-68072a01876ff8fcd558.js>; rel=preload; as=script
+  Link: </techhighlands/commons-5c42cb6e9f2a7b68c78c.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-blog-post-js-a2d8e7946009e484879c.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/article/gomoku-1/page-data.json>; rel=preload; as=fetch; crossorigin
 /techhighlands/blog/code-example
   Link: </techhighlands/webpack-runtime-b491b7afb0f02cf253a1.js>; rel=preload; as=script
   Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
