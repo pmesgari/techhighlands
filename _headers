@@ -5,103 +5,415 @@
   X-XSS-Protection: 1; mode=block
   X-Content-Type-Options: nosniff
   Referrer-Policy: same-origin
-  Strict-Transport-Security: max-age=63072000
-/styles.f182511033ed4d5f5054.css
+/component---cache-caches-gatsby-plugin-offline-app-shell-js-fd4fb51a6fac1c18bdde.js
+  Cache-Control: public, max-age=31536000, immutable
+/styles.895633446cec80c2b600.css
   Cache-Control: public, max-age=31536000, immutable
 /styles-407fe62976dc5310c43e.js
   Cache-Control: public, max-age=31536000, immutable
-/commons-5c42cb6e9f2a7b68c78c.js
+/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-blog-post-js-a2d8e7946009e484879c.js
+/component---src-templates-not-found-template-js-41f164cded42eb2bb580.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-404-js-bff937e505ed3645f489.js
+/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-a477db688564b2b71efb.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-articles-js-d4a6714f54d62a51a95c.js
+/component---src-templates-tags-list-template-js-2d7007993fc2bf0f9caf.js
   Cache-Control: public, max-age=31536000, immutable
-/1bfc9850-ae6f6e854d81acd9ae43.js
+/component---src-templates-categories-list-template-js-2181ec47d28e5c35d3e9.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-pages-index-js-92d08f7d0db5fb6d1359.js
+/component---src-templates-page-template-js-7e8c41eb625c120be687.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-363f382b1460a99866f0.js
+/component---src-templates-post-template-js-8709f0d1dd2120f2c965.js
   Cache-Control: public, max-age=31536000, immutable
-/framework-de237a875aa45b276a9d.js
+/component---src-templates-tag-template-js-a8c40cb7f4cfa1756271.js
   Cache-Control: public, max-age=31536000, immutable
-/app-b0da75185e4c09ac91f0.js
+/component---src-templates-category-template-js-154c85609436c9294d44.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-index-template-js-ea23160ca9528764a2cb.js
+  Cache-Control: public, max-age=31536000, immutable
+/webpack-runtime-40cb29987a480a275ab5.js
+  Cache-Control: public, max-age=31536000, immutable
+/framework-f0fa8831b6d960814d9c.js
+  Cache-Control: public, max-age=31536000, immutable
+/532a2f07-5d61e092ba8c45c5c11a.js
+  Cache-Control: public, max-age=31536000, immutable
+/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js
+  Cache-Control: public, max-age=31536000, immutable
+/app-c2c96fffc46b6e4204ef.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
-/techhighlands/blog/second-title
-  Link: </techhighlands/webpack-runtime-363f382b1460a99866f0.js>; rel=preload; as=script
+/techhighlands/offline-plugin-app-shell-fallback/
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
   Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </techhighlands/framework-de237a875aa45b276a9d.js>; rel=preload; as=script
-  Link: </techhighlands/app-b0da75185e4c09ac91f0.js>; rel=preload; as=script
-  Link: </techhighlands/commons-5c42cb6e9f2a7b68c78c.js>; rel=preload; as=script
-  Link: </techhighlands/component---src-templates-blog-post-js-a2d8e7946009e484879c.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/component---cache-caches-gatsby-plugin-offline-app-shell-js-fd4fb51a6fac1c18bdde.js>; rel=preload; as=script
   Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </techhighlands/page-data/blog/second-title/page-data.json>; rel=preload; as=fetch; crossorigin
-/techhighlands/article/fibonacci_numbers
-  Link: </techhighlands/webpack-runtime-363f382b1460a99866f0.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/404
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
   Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </techhighlands/framework-de237a875aa45b276a9d.js>; rel=preload; as=script
-  Link: </techhighlands/app-b0da75185e4c09ac91f0.js>; rel=preload; as=script
-  Link: </techhighlands/commons-5c42cb6e9f2a7b68c78c.js>; rel=preload; as=script
-  Link: </techhighlands/component---src-templates-blog-post-js-a2d8e7946009e484879c.js>; rel=preload; as=script
-  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </techhighlands/page-data/article/fibonacci_numbers/page-data.json>; rel=preload; as=fetch; crossorigin
-/techhighlands/article/gomoku-1
-  Link: </techhighlands/webpack-runtime-363f382b1460a99866f0.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
   Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </techhighlands/framework-de237a875aa45b276a9d.js>; rel=preload; as=script
-  Link: </techhighlands/app-b0da75185e4c09ac91f0.js>; rel=preload; as=script
-  Link: </techhighlands/commons-5c42cb6e9f2a7b68c78c.js>; rel=preload; as=script
-  Link: </techhighlands/component---src-templates-blog-post-js-a2d8e7946009e484879c.js>; rel=preload; as=script
-  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </techhighlands/page-data/article/gomoku-1/page-data.json>; rel=preload; as=fetch; crossorigin
-/techhighlands/blog/code-example
-  Link: </techhighlands/webpack-runtime-363f382b1460a99866f0.js>; rel=preload; as=script
-  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </techhighlands/framework-de237a875aa45b276a9d.js>; rel=preload; as=script
-  Link: </techhighlands/app-b0da75185e4c09ac91f0.js>; rel=preload; as=script
-  Link: </techhighlands/commons-5c42cb6e9f2a7b68c78c.js>; rel=preload; as=script
-  Link: </techhighlands/component---src-templates-blog-post-js-a2d8e7946009e484879c.js>; rel=preload; as=script
-  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </techhighlands/page-data/blog/code-example/page-data.json>; rel=preload; as=fetch; crossorigin
-/techhighlands/404/
-  Link: </techhighlands/webpack-runtime-363f382b1460a99866f0.js>; rel=preload; as=script
-  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </techhighlands/framework-de237a875aa45b276a9d.js>; rel=preload; as=script
-  Link: </techhighlands/app-b0da75185e4c09ac91f0.js>; rel=preload; as=script
-  Link: </techhighlands/commons-5c42cb6e9f2a7b68c78c.js>; rel=preload; as=script
-  Link: </techhighlands/component---src-pages-404-js-bff937e505ed3645f489.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-not-found-template-js-41f164cded42eb2bb580.js>; rel=preload; as=script
   Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </techhighlands/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
-/techhighlands/articles/
-  Link: </techhighlands/webpack-runtime-363f382b1460a99866f0.js>; rel=preload; as=script
+/techhighlands/tags
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
   Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </techhighlands/framework-de237a875aa45b276a9d.js>; rel=preload; as=script
-  Link: </techhighlands/app-b0da75185e4c09ac91f0.js>; rel=preload; as=script
-  Link: </techhighlands/commons-5c42cb6e9f2a7b68c78c.js>; rel=preload; as=script
-  Link: </techhighlands/component---src-pages-articles-js-d4a6714f54d62a51a95c.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-a477db688564b2b71efb.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-tags-list-template-js-2d7007993fc2bf0f9caf.js>; rel=preload; as=script
   Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </techhighlands/page-data/articles/page-data.json>; rel=preload; as=fetch; crossorigin
-/techhighlands/
-  Link: </techhighlands/webpack-runtime-363f382b1460a99866f0.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/categories
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
   Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </techhighlands/framework-de237a875aa45b276a9d.js>; rel=preload; as=script
-  Link: </techhighlands/app-b0da75185e4c09ac91f0.js>; rel=preload; as=script
-  Link: </techhighlands/1bfc9850-ae6f6e854d81acd9ae43.js>; rel=preload; as=script
-  Link: </techhighlands/commons-5c42cb6e9f2a7b68c78c.js>; rel=preload; as=script
-  Link: </techhighlands/component---src-pages-index-js-92d08f7d0db5fb6d1359.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/1d7a0ef94f880d404b7312b89c0a6747f4e94bce-a477db688564b2b71efb.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-categories-list-template-js-2181ec47d28e5c35d3e9.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/pages/about/
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-page-template-js-7e8c41eb625c120be687.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/posts/the-birth-of-movable-type
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-post-template-js-8709f0d1dd2120f2c965.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/posts/the-birth-of-movable-type/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/posts/the-origins-of-social-stationery-lettering
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-post-template-js-8709f0d1dd2120f2c965.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/posts/the-origins-of-social-stationery-lettering/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/posts/case-study-insertion-and-merge-sort-algorithm-analysis
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-post-template-js-8709f0d1dd2120f2c965.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/posts/case-study-insertion-and-merge-sort-algorithm-analysis/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/pages/contacts/
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-page-template-js-7e8c41eb625c120be687.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/posts/gomoku-part-1
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-post-template-js-8709f0d1dd2120f2c965.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/posts/gomoku-part-1/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/posts/a-brief-history-of-typography
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-post-template-js-8709f0d1dd2120f2c965.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/posts/a-brief-history-of-typography/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/tag/algorithms
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-tag-template-js-a8c40cb7f4cfa1756271.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/tag/algorithms/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/tag/analysis
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-tag-template-js-a8c40cb7f4cfa1756271.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/tag/analysis/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/tag/clean-architecture
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-tag-template-js-a8c40cb7f4cfa1756271.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/tag/clean-architecture/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/tag/clean-code
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-tag-template-js-a8c40cb7f4cfa1756271.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/tag/clean-code/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/tag/data-structures
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-tag-template-js-a8c40cb7f4cfa1756271.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/tag/data-structures/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/tag/gatsby
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-tag-template-js-a8c40cb7f4cfa1756271.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/tag/gatsby/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/tag/helvetica
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-tag-template-js-a8c40cb7f4cfa1756271.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/tag/helvetica/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/tag/history-of-typography
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-tag-template-js-a8c40cb7f4cfa1756271.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/tag/history-of-typography/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/tag/linotype
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-tag-template-js-a8c40cb7f4cfa1756271.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/tag/linotype/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/tag/monotype
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-tag-template-js-a8c40cb7f4cfa1756271.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/tag/monotype/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/tag/open-source
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-tag-template-js-a8c40cb7f4cfa1756271.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/tag/open-source/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/tag/typography
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-tag-template-js-a8c40cb7f4cfa1756271.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/tag/typography/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/category/algorithms-and-data-structures
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-category-template-js-154c85609436c9294d44.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/category/algorithms-and-data-structures/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/category/design-culture
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-category-template-js-154c85609436c9294d44.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/category/design-culture/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/category/design-inspiration
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-category-template-js-154c85609436c9294d44.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/category/design-inspiration/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/category/software-development
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-category-template-js-154c85609436c9294d44.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/category/software-development/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/category/typography
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-category-template-js-154c85609436c9294d44.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/category/typography/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-index-template-js-ea23160ca9528764a2cb.js>; rel=preload; as=script
   Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </techhighlands/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
-/techhighlands/404.html
-  Link: </techhighlands/webpack-runtime-363f382b1460a99866f0.js>; rel=preload; as=script
+/techhighlands/page/1
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
   Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </techhighlands/framework-de237a875aa45b276a9d.js>; rel=preload; as=script
-  Link: </techhighlands/app-b0da75185e4c09ac91f0.js>; rel=preload; as=script
-  Link: </techhighlands/commons-5c42cb6e9f2a7b68c78c.js>; rel=preload; as=script
-  Link: </techhighlands/component---src-pages-404-js-bff937e505ed3645f489.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-index-template-js-ea23160ca9528764a2cb.js>; rel=preload; as=script
+  Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </techhighlands/page-data/page/1/page-data.json>; rel=preload; as=fetch; crossorigin
+/techhighlands/404.html
+  Link: </techhighlands/webpack-runtime-40cb29987a480a275ab5.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </techhighlands/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </techhighlands/dc6a8720040df98778fe970bf6c000a41750d3ae-d743a9af41120ad88de2.js>; rel=preload; as=script
+  Link: </techhighlands/app-c2c96fffc46b6e4204ef.js>; rel=preload; as=script
+  Link: </techhighlands/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </techhighlands/cd95ea5cbd2c605f26db819f07999610c9ff4310-67719cedfad1054b5d2e.js>; rel=preload; as=script
+  Link: </techhighlands/component---src-templates-not-found-template-js-41f164cded42eb2bb580.js>; rel=preload; as=script
   Link: </techhighlands/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </techhighlands/page-data/404.html/page-data.json>; rel=preload; as=fetch; crossorigin
